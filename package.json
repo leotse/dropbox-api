@@ -9,6 +9,7 @@
     "express": "3.0.0rc5",
     "jade": "*",
     "request": "2.11.4",
-    "querystring": "0.1.0"
+    "querystring": "0.1.0",
+    "connect-redis": "1.4.4"
   }
 }
